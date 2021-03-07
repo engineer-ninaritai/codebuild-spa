@@ -18,3 +18,8 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+## CodeBuildをつかった自動デプロイ方法
+
+CodeBuildをつかった自動デプロイ方法はこちらの記事で解説
+https://engineer-ninaritai.com/aws-codebuild-spa/
