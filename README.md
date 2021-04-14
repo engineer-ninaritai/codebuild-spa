@@ -22,4 +22,11 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
 ## CodeBuildをつかった自動デプロイ方法
 
 CodeBuildをつかった自動デプロイ方法はこちらの記事で解説
+
 https://engineer-ninaritai.com/aws-codebuild-spa/
+
+CodePipeLineとの連携方法はこちらの記事で解説
+
+https://engineer-ninaritai.com/codepipeline-how-to-use/
+
+
